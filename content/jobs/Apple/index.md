@@ -1,13 +1,13 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+title: 'Data Scientist'
+company: 'OYO'
+location: 'Gurugram, India'
+range: 'June - August 2023'
+url: 'https://www.oyorooms.com/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Developed a 3D spatial analysis model for hotel service robotics, improving navigational accuracy by 35%
+- Engineered and integrated a computer vision ML pipeline tailored for hotel security systems, leading to a 30% increase in threat detection accuracy and a 20% enhancement in surveillance efficiency
+- Strategized ideas and performed EDA (Explanatory Data Analysis) on multiple pain points and developed Dashboards, which further gave many insights to the business and products teams.
+- Implemented Pandas, Machine Learning for understanding the prediction of Prices across multiple seasons of the year

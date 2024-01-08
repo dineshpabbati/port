@@ -125,7 +125,19 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript',
+    'TypeScript',
+    'Java',
+    'Python',
+    'React',
+    'Node.js',
+    'Django',
+    'Spring Boot',
+    'Cloud - AWS, GCP',
+    'Database - MySQL, Postgres, Redis, GraphQL',
+    'Testing - Junit, Selenium, Pytest',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +147,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Sriram and I enjoy creating things that make the smallest impact,
+              making everyday life easier. My journey started in 2020, when I joined{' '}
+              <a href="https://flamapp.ai/">Flam</a>, as a Software Developer Intern, I worked in
+              various domains Backend, Frontend, Data Engineering and Analytics, afterwards, my
+              interest in data and communication made me join another startup named{' '}
+              <a href="https://www.linkedin.com/company/talentz-ai/">Talentz</a>, , where I worked
+              as a Business Analyst, parallely I completed my graduation at BITS Pilani, after which
+              I joined as an Data Scientist at <a href="https://www.oyorooms.com/">OYO</a>.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Fast-forward to today, I am in my final semester at Northeastern University, pursuing
+              Software Engineering. While pursuing masters, I had the amazing opportunity to Intern
+              at <a href="https://www.onshape.com/en/">OnShape(PTC)</a>, as a Software Engineer,
+              where my primary expertise was working with web development and testing.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -173,7 +176,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

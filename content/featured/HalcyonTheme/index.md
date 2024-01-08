@@ -1,15 +1,16 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Devops Application'
+cover: './aws.png'
+github: 'https://github.com/Cloud-Sriram/webapp'
+
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Javascript
+  - Pulumi
+  - Hashicorp Packer
+  - AWS
+  - GCP
+  - Visual Studio
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Specified IAM roles, policies for CloudWatch, EC2, and RDS to guarantee secure engagement with infrastructure, where we Implemented Pulumi to develop infrastructure on AWS, setting up RDS on EC2 instances housed in a private subnet allowing secure access from the subnet group, which is made publicly available via an internet gateway Crafted virtual images with Packer, integrating application dependencies, AMI, and CloudWatch agents, additionally added serverless lambda to connect with Google Bucket and Mailgun API.

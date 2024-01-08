@@ -1,13 +1,14 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
+date: '2023-06-5'
+title: 'Software Engineer Intern (UI)'
+company: 'Onshape(PTC)'
 location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+range: 'June - August 2023'
+url: 'https://www.onshape.com/en/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Optimized website performance by adeptly utilizing HTML, CSS, and Angular, leading to a 20% decrease in page load times, thereby elevating user experience and increasing click prediction rates
+- Expert in multiple front-end technologies, having implemented over five responsive web designs, coupled with an understanding of back-end service handling, which optimized Search responsiveness by 10%
+- Played a pivotal role in developing the Protractor tool for UI that improved test performance accuracy by 15%
+- Enhanced exceptional code quality and collaboration through rigorous code reviews via RBCommons
+- Achieved 95% code coverage with Junit, Protractor for UI testing, securing robust, verified code performance
