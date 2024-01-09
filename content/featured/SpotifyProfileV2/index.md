@@ -3,7 +3,7 @@ date: '3'
 title: 'Flex Appeal (Full stack project)'
 cover: './cloud.png'
 github: 'https://github.com/Hemanthsneu/Web-Design-Project'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cta: 'https://github.com/Sriram-Northeastern'
 tech:
   - React
   - Express

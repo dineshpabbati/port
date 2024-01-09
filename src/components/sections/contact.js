@@ -64,6 +64,8 @@ const Contact = () => {
         Whether you have a question or just want to say hi, I’ll try my best to get back to you!
       </p>
 
+      <p> Email : sriramgvoruganti@gmail </p>
+
       <a className="email-link" href={`mailto:${email}`}>
         Say Hello
       </a>
