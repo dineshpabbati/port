@@ -1,9 +1,9 @@
 ---
 date: '2'
-title: 'Explanatory Analysis on Customer Acquisition based on Food'
-cover: './food-2.png'
-github: 'https://github.com/Sriram-Northeastern/DataScience'
-external: 'https://medium.com/p/9257a4b67970#71e5-bef5a3f343c'
+title: 'Student Enrollment Dataset'
+cover: './food-5.png'
+github: 'https://github.com/dineshpabbati/studentenrollment'
+external: 'https://medium.com/@dineshpabbati/student-enrollment-dataset-6c17b11fdd3e'
 tech:
   - Pandas
   - Machine Learning
@@ -12,4 +12,10 @@ tech:
   - Data Analysis
 ---
 
-I worked on understanding the Customer Acquisition Cost, we must analyze all the parameters of the Store, for that lets do some Fancy EDA, where I did showcase all the graphs.
+I employed multiple machine learning algorithms to conduct iterative data analysis, generating various graphs and visual representations to uncover valuable insights. This approach allowed me to efficiently analyze the data, leading to informed conclusions about the subject matter. By leveraging these advanced techniques, I was able to gain a comprehensive understanding of the data, demonstrating the effectiveness and efficiency of machine learning in data analysis.
+
+
+
+
+
+

@@ -68,10 +68,7 @@ const StyledCredit = styled.div`
 `;
 
 const Footer = () => {
-  const [githubInfo, setGitHubInfo] = useState({
-    stars: null,
-    forks: null,
-  });
+ 
 
   useEffect(() => {
     if (process.env.NODE_ENV !== 'production') {
@@ -105,21 +102,10 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/Sriram-Northeastern">
-          <div>Designed &amp; Built by Brittany Chiang, Revised by Sriram Voruganti</div>
+        <a href="https://github.com/dineshpabbati">
+          <div>Designed &amp; Built by Brittany Chiang, Revised by Dinesh pabbati</div>
 
-          {githubInfo.stars && githubInfo.forks && (
-            <div className="github-stats">
-              <span>
-                <Icon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <Icon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </div>
-          )}
+         
         </a>
       </StyledCredit>
     </StyledFooter>

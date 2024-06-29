@@ -2,8 +2,8 @@
 date: '3'
 title: 'Flex Appeal (Full stack project)'
 cover: './cloud.png'
-github: 'https://github.com/Hemanthsneu/Web-Design-Project'
-cta: 'https://github.com/Sriram-Northeastern'
+github: 'https://github.com/dineshpabbati/Web-Design-Project'
+cta: 'https://github.com/dineshpabbati'
 tech:
   - React
   - Express

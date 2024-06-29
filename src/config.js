@@ -1,22 +1,18 @@
 module.exports = {
-  email: 'sriramgvoruganti@gmail.com',
+  email: 'dineshpabbati@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Sriram-Northeastern',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/sgv_clicks/',
+      url: 'https://github.com/dineshpabbati',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/kafka5433',
+      url: 'https://twitter.com/dineshpabbati',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sriram-gupta-voruganti/',
+      url: 'https://www.linkedin.com/in/dineshpabbati',
     },
   ],
 

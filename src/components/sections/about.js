@@ -133,10 +133,9 @@ const About = () => {
     'React',
     'Node.js',
     'Django',
-    'Spring Boot',
     'Cloud - AWS, GCP',
-    'Database - MySQL, Postgres, Redis, GraphQL',
-    'Testing - Junit, Selenium, Pytest',
+    'Database - MySQL, Postgres,GraphQL',
+    'Testing - Junit,Pytest',
   ];
 
   return (
@@ -144,39 +143,40 @@ const About = () => {
       <h2 className="numbered-heading">About Me</h2>
 
       <div className="inner">
-        <StyledText>
-          <div>
-            <p>
-              Hello! My name is Sriram and I enjoy creating things that make the smallest impact,
-              making everyday life easier. My journey started in 2020, when I joined{' '}
-              <a href="https://flamapp.ai/">Flam</a>, as a Software Developer Intern, I worked in
-              various domains Backend, Frontend, Data Engineering and Analytics, afterwards, my
-              interest in data and communication made me join another startup named{' '}
-              <a href="https://www.linkedin.com/company/talentz-ai/">Talentz</a>, , where I worked
-              as a Business Analyst, parallely I completed my graduation at BITS Pilani, after which
-              I joined as an Data Scientist at <a href="https://www.oyorooms.com/">OYO</a>.
-            </p>
+      <StyledText>
+      <div>
+        <p>
+          Hello! I'm Dinesh Pabbathi, a passionate software engineer dedicated to creating impactful solutions that simplify everyday life.
+          My tech journey began in 2019 with an internship at <a href="https://www.bsnl.co.in/">BSNL</a>,
+          where I explored computer networking and data analysis.
+        </p>
 
-            <p>
-              Fast-forward to today, I am in my final semester at Northeastern University, pursuing
-              Software Engineering. While pursuing masters, I had the amazing opportunity to Intern
-              at <a href="https://www.onshape.com/en/">OnShape(PTC)</a>, as a Software Engineer,
-              where my primary expertise was working with web development and testing.
-            </p>
+        <p>
+          In 2020, I joined <a href="https://vncdigitalservices.com/">VNC Digital Services</a> as a Full Stack Developer Intern, diving into backend, frontend projects.
+          My growing interest in data and communication led me to <a href="https://www.tcs.com/">Tata Consultancy Services</a>, where I enhanced my skills as a Full-Stack Developer.
+        </p>
+        <p>
+         Currently, I'm completing my Master's in Computer Software Engineering at <a href="https://www.northeastern.edu/">Northeastern University</a>,
+         where I also work as a Web Developer co-op. In this role, I focus on developing web applications and conducting data analysis, continuously improving internal performance metrics.
+        </p>
+        <p>
+         I'm in my final semester at Northeastern and excited to bring my expertise in web development and testing to new challenges. 
+         Let's connect and create impactful solutions together!
+        </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
-          </div>
+        <p>Technologies I’ve been working with recently:</p>
+  </div>
 
-          <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
-        </StyledText>
+        <ul className="skills-list">
+          {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
+        </ul>
+      </StyledText>
 
         <StyledPic>
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpeg"
+              src="../../images/me.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

@@ -60,27 +60,18 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Sriram Voruganti.</h2>;
-  const three = <h3 className="big-heading">I build things for the web and run the Backend.</h3>;
+  const two = <h2 className="big-heading">Dinesh Pabbati.</h2>;
+  const three = <h3 className="big-heading">I craft dynamic web experiences and master the art of backend engineering.</h3>;
   const four = (
     <>
       <p>
-        I am a Software Engineer and Data Scientist, exploring the beauty of technology and its
-        applications in creating a meaningful impact.
+      I am a Software Engineer with a strong background in full-stack development and Data Analysis, dedicated to exploring technology's potential to create impactful and innovative solutions.
       </p>
     </>
   );
-  const five = (
-    <a
-      className="email-link"
-      href="https://drive.google.com/file/d/1-c5os8rl7Ct9Lf_gnUMjP1hfk3i3AonI/view?usp=sharing"
-      target="_blank"
-      rel="noreferrer">
-      My Video Pitch
-    </a>
-  );
+  
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>

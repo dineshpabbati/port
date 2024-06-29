@@ -2,7 +2,7 @@
 date: '1'
 title: 'Devops Application'
 cover: './aws.png'
-github: 'https://github.com/Cloud-Sriram/webapp'
+github: 'https://github.com/dineshpabbati/webapp'
 
 tech:
   - Javascript

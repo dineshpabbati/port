@@ -1,11 +1,11 @@
 ---
 date: '2017-04-01'
-title: 'Business Analyst'
-company: 'Talentz.ai'
-location: 'Dubai,UAE'
-range: 'May - July 2022'
-# url: 'https://web.northeastern.edu/scout/'
+title: 'Full Stack Developer Intern'
+company: 'VNC Digital Services'
+location: 'Karnataka,India'
+range: 'Dec 2020 - May 2021'
+url: 'https://vncdigitalservices.com/'
 ---
 
-- Generated reports on Tableau to conduct trend analysis and research on competitors, identifying target markets to help optimize the website and which leveraged customer retention by 15%.
-- Focused on the major KPIs to improve the DAU and WAU
+- Executed RESTful APIs and optimized backend services with Spring Boot(Java), leveraging MySQL to achieve a 30%reduction in API response time.
+- Crafted HTML and CSS to design captivating web interfaces, enriching the overall visual appeal and functionality of the web applications, and enhancing the user experience by 20%.

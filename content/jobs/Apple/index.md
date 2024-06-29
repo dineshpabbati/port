@@ -1,13 +1,17 @@
 ---
 date: '2017-12-21'
-title: 'Data Scientist'
-company: 'OYO'
-location: 'Gurugram, India'
-range: 'June - August 2023'
-url: 'https://www.oyorooms.com/'
+title: 'Full Stack Developer'
+company: 'TCS'
+location: 'Hyderabad India'
+range: 'June 2021- July 2022'
+url: 'https://www.tcs.com/'
 ---
 
-- Developed a 3D spatial analysis model for hotel service robotics, improving navigational accuracy by 35%
-- Engineered and integrated a computer vision ML pipeline tailored for hotel security systems, leading to a 30% increase in threat detection accuracy and a 20% enhancement in surveillance efficiency
-- Strategized ideas and performed EDA (Explanatory Data Analysis) on multiple pain points and developed Dashboards, which further gave many insights to the business and products teams.
-- Implemented Pandas, Machine Learning for understanding the prediction of Prices across multiple seasons of the year
+- Orchestrated the development of a responsive frontend for an insurance website, enabling efficient claims and reimbursement management using React.js, leading to a substantial 25% increase in overall effectiveness.
+- Implemented the integration of a 3rd party online payment platform API’s using Node.js, allowing for the acquisition of data necessary to support a comprehensive range of frequently used recharge services within the bill payment feature.
+- Analyzed data properties, consisting of 15000 records, from the MySQL database and adeptly mapped them for seamlessAPI’s integration within the application.
+- Designed and implemented a CI/CD pipeline with GitHub Actions, achieving a 40% enhancement in deployment frequency and a 30% reduction in code integration issues, streamlining quality assurance processes.
+
+
+
+
